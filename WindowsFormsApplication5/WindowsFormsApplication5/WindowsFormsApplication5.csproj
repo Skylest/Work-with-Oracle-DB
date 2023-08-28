@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AEA1F1C0-1133-48EF-883B-032E5872E594}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication5</RootNamespace>
+    <AssemblyName>WindowsFormsApplication5</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=x86" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ASSIGNMENTS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ASSIGNMENTS.Designer.cs">
+      <DependentUpon>ASSIGNMENTS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AssignmentsDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssignmentsDate.Designer.cs">
+      <DependentUpon>AssignmentsDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AssignmentsPeriod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssignmentsPeriod.Designer.cs">
+      <DependentUpon>AssignmentsPeriod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ASSIGN_report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ASSIGN_report.Designer.cs">
+      <DependentUpon>ASSIGN_report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.cs">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DEPARTMENT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DEPARTMENT.Designer.cs">
+      <DependentUpon>DEPARTMENT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="diagram.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="diagram.Designer.cs">
+      <DependentUpon>diagram.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EMPLOYEE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EMPLOYEE.Designer.cs">
+      <DependentUpon>EMPLOYEE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EMP_report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EMP_report.Designer.cs">
+      <DependentUpon>EMP_report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MENU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MENU.Designer.cs">
+      <DependentUpon>MENU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="DiagramPeriod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DiagramPeriod.Designer.cs">
+      <DependentUpon>DiagramPeriod.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ASSIGNMENTS.resx">
+      <DependentUpon>ASSIGNMENTS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AssignmentsDate.resx">
+      <DependentUpon>AssignmentsDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AssignmentsPeriod.resx">
+      <DependentUpon>AssignmentsPeriod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ASSIGN_report.resx">
+      <DependentUpon>ASSIGN_report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DEPARTMENT.resx">
+      <DependentUpon>DEPARTMENT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="diagram.resx">
+      <DependentUpon>diagram.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EMPLOYEE.resx">
+      <DependentUpon>EMPLOYEE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EMP_report.resx">
+      <DependentUpon>EMP_report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MENU.resx">
+      <DependentUpon>MENU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="DiagramPeriod.resx">
+      <DependentUpon>DiagramPeriod.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

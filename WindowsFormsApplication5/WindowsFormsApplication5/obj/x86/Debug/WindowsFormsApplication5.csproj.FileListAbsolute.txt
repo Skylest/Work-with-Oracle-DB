@@ -1,0 +1,37 @@
+c:\users\sql server\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+c:\users\sql server\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+c:\users\sql server\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+c:\users\sql server\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.MENU.resources
+c:\users\sql server\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+c:\users\sql server\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+c:\users\sql server\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+c:\users\sql server\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+c:\users\sql server\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+c:\users\sql server\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.ASSIGNMENTS.resources
+c:\users\sql server\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.ASSIGN_report.resources
+c:\users\sql server\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.DEPARTMENT.resources
+c:\users\sql server\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.EMPLOYEE.resources
+c:\users\sql server\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\RdlCompile.cache
+c:\users\sql server\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\RdlCompile.compiled
+c:\users\sql server\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.EMP_report.resources
+C:\Users\SQL server\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.AssignmentsDate.resources
+C:\Users\SQL server\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.AssignmentsPeriod.resources
+C:\Users\SQL server\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.diagram.resources
+C:\Users\SQL server\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.DiagramPeriod.resources
+D:\Учеба\2 курс\2 семестр\бд\Курсач\Отчет\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.AssemblyReference.cache
+D:\Учеба\2 курс\2 семестр\бд\Курсач\Отчет\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.SuggestedBindingRedirects.cache
+D:\Учеба\2 курс\2 семестр\бд\Курсач\Отчет\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.ASSIGNMENTS.resources
+D:\Учеба\2 курс\2 семестр\бд\Курсач\Отчет\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.AssignmentsDate.resources
+D:\Учеба\2 курс\2 семестр\бд\Курсач\Отчет\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.AssignmentsPeriod.resources
+D:\Учеба\2 курс\2 семестр\бд\Курсач\Отчет\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.ASSIGN_report.resources
+D:\Учеба\2 курс\2 семестр\бд\Курсач\Отчет\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.DEPARTMENT.resources
+D:\Учеба\2 курс\2 семестр\бд\Курсач\Отчет\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.diagram.resources
+D:\Учеба\2 курс\2 семестр\бд\Курсач\Отчет\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.EMPLOYEE.resources
+D:\Учеба\2 курс\2 семестр\бд\Курсач\Отчет\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.EMP_report.resources
+D:\Учеба\2 курс\2 семестр\бд\Курсач\Отчет\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.MENU.resources
+D:\Учеба\2 курс\2 семестр\бд\Курсач\Отчет\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+D:\Учеба\2 курс\2 семестр\бд\Курсач\Отчет\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.DiagramPeriod.resources
+D:\Учеба\2 курс\2 семестр\бд\Курсач\Отчет\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.cache
+D:\Учеба\2 курс\2 семестр\бд\Курсач\Отчет\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.CoreCompileInputs.cache
+D:\Учеба\2 курс\2 семестр\бд\Курсач\Отчет\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+D:\Учеба\2 курс\2 семестр\бд\Курсач\Отчет\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
